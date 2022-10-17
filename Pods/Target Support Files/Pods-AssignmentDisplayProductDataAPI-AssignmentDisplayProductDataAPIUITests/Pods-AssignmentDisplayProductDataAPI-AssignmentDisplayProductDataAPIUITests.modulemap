@@ -1,0 +1,6 @@
+framework module Pods_AssignmentDisplayProductDataAPI_AssignmentDisplayProductDataAPIUITests {
+  umbrella header "Pods-AssignmentDisplayProductDataAPI-AssignmentDisplayProductDataAPIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
